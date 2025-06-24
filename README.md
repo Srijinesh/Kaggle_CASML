@@ -9,3 +9,6 @@ Testing with the Mistral 7B llm is done in the mistral_7b_testing notebook in th
 For testing the model and pipeline, run the mistrak_7b_testing notebook, all cells in sequential fashion, with the my_vector_index folder in the same location as the running notebook.
 
 BLEU score results from the competition were achieved at a value of 0.277 from a value of 0.11.
+
+
+Kaggle Submission Link: https://www.kaggle.com/competitions/casml-generative-ai-hackathon/submissions#
