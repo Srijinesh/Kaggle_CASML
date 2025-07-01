@@ -27,6 +27,8 @@ with open(pdf_path, "rb") as fp:
         page_number += 1
         if page_number <= 18 or page_number > 644:
             continue
+        # Add page numbers to the text using StringIO
+        retstr.write(f"\n\nPage {page_number - 12}\n")
         interpreter.process_page(page)
     # Get the text from the StringIO object
     text = retstr.getvalue()
@@ -37,5 +39,5 @@ retstr.close()
 # Print or save the extracted text
 text = text.replace("\n\nAccess for free at openstax.org", "") 
 # Optionally, save the text to a file
-with open("Data/Psychology2e_WEB_pdfminer_trimmed.txt", "w", encoding="utf-8") as text_file:
+with open("Data/Psychology2e_WEB_pdfminer_trimmed_with_page_numbers.txt", "w", encoding="utf-8") as text_file:
     text_file.write(text)
