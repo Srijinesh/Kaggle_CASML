@@ -20,12 +20,12 @@ interpreter = PDFPageInterpreter(rsrc_mgr, device)
 with open(pdf_path, "rb") as fp:
     # Process each page in the PDF
 
-    # The first 18 pages are not needed, so we will skip them
+    # The first 13 pages are not needed, so we will skip them
     # References are also not needed. So we will skip these as well
     page_number = 0
     for page in tqdm(PDFPage.get_pages(fp)):
         page_number += 1
-        if page_number <= 18 or page_number > 644:
+        if page_number <= 12 or page_number > 644:
             continue
         # Add page numbers to the text using StringIO
         retstr.write(f"\n\nPage {page_number - 12}\n")
@@ -39,5 +39,5 @@ retstr.close()
 # Print or save the extracted text
 text = text.replace("\n\nAccess for free at openstax.org", "") 
 # Optionally, save the text to a file
-with open("Data/Psychology2e_WEB_pdfminer_trimmed_with_page_numbers.txt", "w", encoding="utf-8") as text_file:
+with open("Data/Psychology2e_WEB_pdfminer_trimmed_with_page_numbers_v2.txt", "w", encoding="utf-8") as text_file:
     text_file.write(text)

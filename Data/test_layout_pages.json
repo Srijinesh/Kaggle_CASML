@@ -1,0 +1,15 @@
+{
+  "pdf": "Data/Psychology2e_WEB.pdf",
+  "total_lines": 43,
+  "total_pages": 1,
+  "likely_scanned_pages": [],
+  "page_stats": [
+    {
+      "page_num": 1,
+      "raw_page_num": 13,
+      "text_char_count": 3276,
+      "text_line_count": 43,
+      "likely_scanned": false
+    }
+  ]
+}

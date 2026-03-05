@@ -1,0 +1,4439 @@
+{
+  "pdf": "Data/Psychology2e_WEB.pdf",
+  "total_lines": 23546,
+  "total_pages": 632,
+  "likely_scanned_pages": [
+    108,
+    180,
+    212,
+    278,
+    446,
+    536
+  ],
+  "page_stats": [
+    {
+      "page_num": 1,
+      "raw_page_num": 13,
+      "text_char_count": 3276,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 2,
+      "raw_page_num": 14,
+      "text_char_count": 2914,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 3,
+      "raw_page_num": 15,
+      "text_char_count": 3721,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 4,
+      "raw_page_num": 16,
+      "text_char_count": 2955,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 5,
+      "raw_page_num": 17,
+      "text_char_count": 1911,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 6,
+      "raw_page_num": 18,
+      "text_char_count": 567,
+      "text_line_count": 15,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 7,
+      "raw_page_num": 19,
+      "text_char_count": 1595,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 8,
+      "raw_page_num": 20,
+      "text_char_count": 4047,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 9,
+      "raw_page_num": 21,
+      "text_char_count": 3915,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 10,
+      "raw_page_num": 22,
+      "text_char_count": 2439,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 11,
+      "raw_page_num": 23,
+      "text_char_count": 1739,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 12,
+      "raw_page_num": 24,
+      "text_char_count": 4593,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 13,
+      "raw_page_num": 25,
+      "text_char_count": 2627,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 14,
+      "raw_page_num": 26,
+      "text_char_count": 2951,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 15,
+      "raw_page_num": 27,
+      "text_char_count": 1635,
+      "text_line_count": 18,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 16,
+      "raw_page_num": 28,
+      "text_char_count": 3037,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 17,
+      "raw_page_num": 29,
+      "text_char_count": 4259,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 18,
+      "raw_page_num": 30,
+      "text_char_count": 3976,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 19,
+      "raw_page_num": 31,
+      "text_char_count": 2310,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 20,
+      "raw_page_num": 32,
+      "text_char_count": 4437,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 21,
+      "raw_page_num": 33,
+      "text_char_count": 3070,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 22,
+      "raw_page_num": 34,
+      "text_char_count": 3007,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 23,
+      "raw_page_num": 35,
+      "text_char_count": 2031,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 24,
+      "raw_page_num": 36,
+      "text_char_count": 1795,
+      "text_line_count": 21,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 25,
+      "raw_page_num": 37,
+      "text_char_count": 2655,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 26,
+      "raw_page_num": 38,
+      "text_char_count": 3031,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 27,
+      "raw_page_num": 39,
+      "text_char_count": 1734,
+      "text_line_count": 21,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 28,
+      "raw_page_num": 40,
+      "text_char_count": 4470,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 29,
+      "raw_page_num": 41,
+      "text_char_count": 1188,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 30,
+      "raw_page_num": 42,
+      "text_char_count": 3440,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 31,
+      "raw_page_num": 43,
+      "text_char_count": 4188,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 32,
+      "raw_page_num": 44,
+      "text_char_count": 1418,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 33,
+      "raw_page_num": 45,
+      "text_char_count": 1396,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 34,
+      "raw_page_num": 46,
+      "text_char_count": 1669,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 35,
+      "raw_page_num": 47,
+      "text_char_count": 1776,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 36,
+      "raw_page_num": 48,
+      "text_char_count": 3028,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 37,
+      "raw_page_num": 49,
+      "text_char_count": 4690,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 38,
+      "raw_page_num": 50,
+      "text_char_count": 3223,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 39,
+      "raw_page_num": 51,
+      "text_char_count": 3436,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 40,
+      "raw_page_num": 52,
+      "text_char_count": 2870,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 41,
+      "raw_page_num": 53,
+      "text_char_count": 2715,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 42,
+      "raw_page_num": 54,
+      "text_char_count": 4260,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 43,
+      "raw_page_num": 55,
+      "text_char_count": 3738,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 44,
+      "raw_page_num": 56,
+      "text_char_count": 3020,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 45,
+      "raw_page_num": 57,
+      "text_char_count": 3303,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 46,
+      "raw_page_num": 58,
+      "text_char_count": 3617,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 47,
+      "raw_page_num": 59,
+      "text_char_count": 4234,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 48,
+      "raw_page_num": 60,
+      "text_char_count": 3384,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 49,
+      "raw_page_num": 61,
+      "text_char_count": 3662,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 50,
+      "raw_page_num": 62,
+      "text_char_count": 3527,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 51,
+      "raw_page_num": 63,
+      "text_char_count": 3089,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 52,
+      "raw_page_num": 64,
+      "text_char_count": 2824,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 53,
+      "raw_page_num": 65,
+      "text_char_count": 3208,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 54,
+      "raw_page_num": 66,
+      "text_char_count": 2796,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 55,
+      "raw_page_num": 67,
+      "text_char_count": 3169,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 56,
+      "raw_page_num": 68,
+      "text_char_count": 4116,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 57,
+      "raw_page_num": 69,
+      "text_char_count": 4387,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 58,
+      "raw_page_num": 70,
+      "text_char_count": 2275,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 59,
+      "raw_page_num": 71,
+      "text_char_count": 3242,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 60,
+      "raw_page_num": 72,
+      "text_char_count": 2765,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 61,
+      "raw_page_num": 73,
+      "text_char_count": 2036,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 62,
+      "raw_page_num": 74,
+      "text_char_count": 867,
+      "text_line_count": 10,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 63,
+      "raw_page_num": 75,
+      "text_char_count": 3580,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 64,
+      "raw_page_num": 76,
+      "text_char_count": 3610,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 65,
+      "raw_page_num": 77,
+      "text_char_count": 3820,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 66,
+      "raw_page_num": 78,
+      "text_char_count": 1595,
+      "text_line_count": 55,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 67,
+      "raw_page_num": 79,
+      "text_char_count": 1674,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 68,
+      "raw_page_num": 80,
+      "text_char_count": 1454,
+      "text_line_count": 54,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 69,
+      "raw_page_num": 81,
+      "text_char_count": 3312,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 70,
+      "raw_page_num": 82,
+      "text_char_count": 2821,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 71,
+      "raw_page_num": 83,
+      "text_char_count": 1821,
+      "text_line_count": 25,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 72,
+      "raw_page_num": 84,
+      "text_char_count": 3022,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 73,
+      "raw_page_num": 85,
+      "text_char_count": 2601,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 74,
+      "raw_page_num": 86,
+      "text_char_count": 3183,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 75,
+      "raw_page_num": 87,
+      "text_char_count": 3283,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 76,
+      "raw_page_num": 88,
+      "text_char_count": 2704,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 77,
+      "raw_page_num": 89,
+      "text_char_count": 3729,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 78,
+      "raw_page_num": 90,
+      "text_char_count": 3887,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 79,
+      "raw_page_num": 91,
+      "text_char_count": 3479,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 80,
+      "raw_page_num": 92,
+      "text_char_count": 2861,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 81,
+      "raw_page_num": 93,
+      "text_char_count": 2227,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 82,
+      "raw_page_num": 94,
+      "text_char_count": 2949,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 83,
+      "raw_page_num": 95,
+      "text_char_count": 3466,
+      "text_line_count": 55,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 84,
+      "raw_page_num": 96,
+      "text_char_count": 1693,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 85,
+      "raw_page_num": 97,
+      "text_char_count": 2201,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 86,
+      "raw_page_num": 98,
+      "text_char_count": 3872,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 87,
+      "raw_page_num": 99,
+      "text_char_count": 3108,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 88,
+      "raw_page_num": 100,
+      "text_char_count": 3934,
+      "text_line_count": 40,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 89,
+      "raw_page_num": 101,
+      "text_char_count": 1906,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 90,
+      "raw_page_num": 102,
+      "text_char_count": 3379,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 91,
+      "raw_page_num": 103,
+      "text_char_count": 1551,
+      "text_line_count": 18,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 92,
+      "raw_page_num": 104,
+      "text_char_count": 1757,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 93,
+      "raw_page_num": 105,
+      "text_char_count": 2751,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 94,
+      "raw_page_num": 106,
+      "text_char_count": 2627,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 95,
+      "raw_page_num": 107,
+      "text_char_count": 3160,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 96,
+      "raw_page_num": 108,
+      "text_char_count": 2236,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 97,
+      "raw_page_num": 109,
+      "text_char_count": 1441,
+      "text_line_count": 21,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 98,
+      "raw_page_num": 110,
+      "text_char_count": 2517,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 99,
+      "raw_page_num": 111,
+      "text_char_count": 2432,
+      "text_line_count": 52,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 100,
+      "raw_page_num": 112,
+      "text_char_count": 3596,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 101,
+      "raw_page_num": 113,
+      "text_char_count": 3596,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 102,
+      "raw_page_num": 114,
+      "text_char_count": 3591,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 103,
+      "raw_page_num": 115,
+      "text_char_count": 3116,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 104,
+      "raw_page_num": 116,
+      "text_char_count": 1131,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 105,
+      "raw_page_num": 117,
+      "text_char_count": 1297,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 106,
+      "raw_page_num": 118,
+      "text_char_count": 2723,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 107,
+      "raw_page_num": 119,
+      "text_char_count": 785,
+      "text_line_count": 9,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 108,
+      "raw_page_num": 120,
+      "text_char_count": 69,
+      "text_line_count": 2,
+      "likely_scanned": true
+    },
+    {
+      "page_num": 109,
+      "raw_page_num": 121,
+      "text_char_count": 1232,
+      "text_line_count": 21,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 110,
+      "raw_page_num": 122,
+      "text_char_count": 2647,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 111,
+      "raw_page_num": 123,
+      "text_char_count": 2667,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 112,
+      "raw_page_num": 124,
+      "text_char_count": 3209,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 113,
+      "raw_page_num": 125,
+      "text_char_count": 2631,
+      "text_line_count": 76,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 114,
+      "raw_page_num": 126,
+      "text_char_count": 2758,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 115,
+      "raw_page_num": 127,
+      "text_char_count": 2994,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 116,
+      "raw_page_num": 128,
+      "text_char_count": 4309,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 117,
+      "raw_page_num": 129,
+      "text_char_count": 2463,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 118,
+      "raw_page_num": 130,
+      "text_char_count": 2262,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 119,
+      "raw_page_num": 131,
+      "text_char_count": 1892,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 120,
+      "raw_page_num": 132,
+      "text_char_count": 3007,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 121,
+      "raw_page_num": 133,
+      "text_char_count": 4103,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 122,
+      "raw_page_num": 134,
+      "text_char_count": 3384,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 123,
+      "raw_page_num": 135,
+      "text_char_count": 3976,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 124,
+      "raw_page_num": 136,
+      "text_char_count": 3960,
+      "text_line_count": 42,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 125,
+      "raw_page_num": 137,
+      "text_char_count": 2885,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 126,
+      "raw_page_num": 138,
+      "text_char_count": 4463,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 127,
+      "raw_page_num": 139,
+      "text_char_count": 2040,
+      "text_line_count": 98,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 128,
+      "raw_page_num": 140,
+      "text_char_count": 2417,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 129,
+      "raw_page_num": 141,
+      "text_char_count": 2485,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 130,
+      "raw_page_num": 142,
+      "text_char_count": 2590,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 131,
+      "raw_page_num": 143,
+      "text_char_count": 4829,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 132,
+      "raw_page_num": 144,
+      "text_char_count": 3403,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 133,
+      "raw_page_num": 145,
+      "text_char_count": 2354,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 134,
+      "raw_page_num": 146,
+      "text_char_count": 3069,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 135,
+      "raw_page_num": 147,
+      "text_char_count": 2725,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 136,
+      "raw_page_num": 148,
+      "text_char_count": 2399,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 137,
+      "raw_page_num": 149,
+      "text_char_count": 3518,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 138,
+      "raw_page_num": 150,
+      "text_char_count": 3621,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 139,
+      "raw_page_num": 151,
+      "text_char_count": 3871,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 140,
+      "raw_page_num": 152,
+      "text_char_count": 959,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 141,
+      "raw_page_num": 153,
+      "text_char_count": 1158,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 142,
+      "raw_page_num": 154,
+      "text_char_count": 1016,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 143,
+      "raw_page_num": 155,
+      "text_char_count": 2867,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 144,
+      "raw_page_num": 156,
+      "text_char_count": 1023,
+      "text_line_count": 13,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 145,
+      "raw_page_num": 157,
+      "text_char_count": 1491,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 146,
+      "raw_page_num": 158,
+      "text_char_count": 4196,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 147,
+      "raw_page_num": 159,
+      "text_char_count": 3624,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 148,
+      "raw_page_num": 160,
+      "text_char_count": 3407,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 149,
+      "raw_page_num": 161,
+      "text_char_count": 3157,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 150,
+      "raw_page_num": 162,
+      "text_char_count": 2053,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 151,
+      "raw_page_num": 163,
+      "text_char_count": 2411,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 152,
+      "raw_page_num": 164,
+      "text_char_count": 1652,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 153,
+      "raw_page_num": 165,
+      "text_char_count": 2355,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 154,
+      "raw_page_num": 166,
+      "text_char_count": 1424,
+      "text_line_count": 16,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 155,
+      "raw_page_num": 167,
+      "text_char_count": 2187,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 156,
+      "raw_page_num": 168,
+      "text_char_count": 2721,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 157,
+      "raw_page_num": 169,
+      "text_char_count": 2862,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 158,
+      "raw_page_num": 170,
+      "text_char_count": 2208,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 159,
+      "raw_page_num": 171,
+      "text_char_count": 2909,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 160,
+      "raw_page_num": 172,
+      "text_char_count": 2836,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 161,
+      "raw_page_num": 173,
+      "text_char_count": 2451,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 162,
+      "raw_page_num": 174,
+      "text_char_count": 4159,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 163,
+      "raw_page_num": 175,
+      "text_char_count": 1593,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 164,
+      "raw_page_num": 176,
+      "text_char_count": 3500,
+      "text_line_count": 42,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 165,
+      "raw_page_num": 177,
+      "text_char_count": 2496,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 166,
+      "raw_page_num": 178,
+      "text_char_count": 1995,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 167,
+      "raw_page_num": 179,
+      "text_char_count": 3036,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 168,
+      "raw_page_num": 180,
+      "text_char_count": 2803,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 169,
+      "raw_page_num": 181,
+      "text_char_count": 1939,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 170,
+      "raw_page_num": 182,
+      "text_char_count": 933,
+      "text_line_count": 13,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 171,
+      "raw_page_num": 183,
+      "text_char_count": 2035,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 172,
+      "raw_page_num": 184,
+      "text_char_count": 3497,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 173,
+      "raw_page_num": 185,
+      "text_char_count": 3206,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 174,
+      "raw_page_num": 186,
+      "text_char_count": 3764,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 175,
+      "raw_page_num": 187,
+      "text_char_count": 2289,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 176,
+      "raw_page_num": 188,
+      "text_char_count": 1082,
+      "text_line_count": 55,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 177,
+      "raw_page_num": 189,
+      "text_char_count": 1215,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 178,
+      "raw_page_num": 190,
+      "text_char_count": 1870,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 179,
+      "raw_page_num": 191,
+      "text_char_count": 1816,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 180,
+      "raw_page_num": 192,
+      "text_char_count": 69,
+      "text_line_count": 2,
+      "likely_scanned": true
+    },
+    {
+      "page_num": 181,
+      "raw_page_num": 193,
+      "text_char_count": 1849,
+      "text_line_count": 25,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 182,
+      "raw_page_num": 194,
+      "text_char_count": 4445,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 183,
+      "raw_page_num": 195,
+      "text_char_count": 2842,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 184,
+      "raw_page_num": 196,
+      "text_char_count": 3228,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 185,
+      "raw_page_num": 197,
+      "text_char_count": 2664,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 186,
+      "raw_page_num": 198,
+      "text_char_count": 1580,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 187,
+      "raw_page_num": 199,
+      "text_char_count": 2542,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 188,
+      "raw_page_num": 200,
+      "text_char_count": 4813,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 189,
+      "raw_page_num": 201,
+      "text_char_count": 3548,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 190,
+      "raw_page_num": 202,
+      "text_char_count": 3399,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 191,
+      "raw_page_num": 203,
+      "text_char_count": 2601,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 192,
+      "raw_page_num": 204,
+      "text_char_count": 2650,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 193,
+      "raw_page_num": 205,
+      "text_char_count": 2836,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 194,
+      "raw_page_num": 206,
+      "text_char_count": 3653,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 195,
+      "raw_page_num": 207,
+      "text_char_count": 4193,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 196,
+      "raw_page_num": 208,
+      "text_char_count": 3956,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 197,
+      "raw_page_num": 209,
+      "text_char_count": 3125,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 198,
+      "raw_page_num": 210,
+      "text_char_count": 2673,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 199,
+      "raw_page_num": 211,
+      "text_char_count": 3382,
+      "text_line_count": 69,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 200,
+      "raw_page_num": 212,
+      "text_char_count": 3525,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 201,
+      "raw_page_num": 213,
+      "text_char_count": 3384,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 202,
+      "raw_page_num": 214,
+      "text_char_count": 2034,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 203,
+      "raw_page_num": 215,
+      "text_char_count": 2879,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 204,
+      "raw_page_num": 216,
+      "text_char_count": 3322,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 205,
+      "raw_page_num": 217,
+      "text_char_count": 4239,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 206,
+      "raw_page_num": 218,
+      "text_char_count": 2846,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 207,
+      "raw_page_num": 219,
+      "text_char_count": 3544,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 208,
+      "raw_page_num": 220,
+      "text_char_count": 3300,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 209,
+      "raw_page_num": 221,
+      "text_char_count": 1880,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 210,
+      "raw_page_num": 222,
+      "text_char_count": 1503,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 211,
+      "raw_page_num": 223,
+      "text_char_count": 1682,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 212,
+      "raw_page_num": 224,
+      "text_char_count": 69,
+      "text_line_count": 2,
+      "likely_scanned": true
+    },
+    {
+      "page_num": 213,
+      "raw_page_num": 225,
+      "text_char_count": 2014,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 214,
+      "raw_page_num": 226,
+      "text_char_count": 3154,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 215,
+      "raw_page_num": 227,
+      "text_char_count": 3169,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 216,
+      "raw_page_num": 228,
+      "text_char_count": 3563,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 217,
+      "raw_page_num": 229,
+      "text_char_count": 2899,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 218,
+      "raw_page_num": 230,
+      "text_char_count": 4067,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 219,
+      "raw_page_num": 231,
+      "text_char_count": 2789,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 220,
+      "raw_page_num": 232,
+      "text_char_count": 4066,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 221,
+      "raw_page_num": 233,
+      "text_char_count": 2894,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 222,
+      "raw_page_num": 234,
+      "text_char_count": 3289,
+      "text_line_count": 53,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 223,
+      "raw_page_num": 235,
+      "text_char_count": 2931,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 224,
+      "raw_page_num": 236,
+      "text_char_count": 718,
+      "text_line_count": 10,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 225,
+      "raw_page_num": 237,
+      "text_char_count": 1867,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 226,
+      "raw_page_num": 238,
+      "text_char_count": 3306,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 227,
+      "raw_page_num": 239,
+      "text_char_count": 1156,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 228,
+      "raw_page_num": 240,
+      "text_char_count": 4019,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 229,
+      "raw_page_num": 241,
+      "text_char_count": 3631,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 230,
+      "raw_page_num": 242,
+      "text_char_count": 3727,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 231,
+      "raw_page_num": 243,
+      "text_char_count": 4130,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 232,
+      "raw_page_num": 244,
+      "text_char_count": 2989,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 233,
+      "raw_page_num": 245,
+      "text_char_count": 4128,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 234,
+      "raw_page_num": 246,
+      "text_char_count": 2504,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 235,
+      "raw_page_num": 247,
+      "text_char_count": 2086,
+      "text_line_count": 40,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 236,
+      "raw_page_num": 248,
+      "text_char_count": 4457,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 237,
+      "raw_page_num": 249,
+      "text_char_count": 2787,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 238,
+      "raw_page_num": 250,
+      "text_char_count": 4843,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 239,
+      "raw_page_num": 251,
+      "text_char_count": 4032,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 240,
+      "raw_page_num": 252,
+      "text_char_count": 1203,
+      "text_line_count": 14,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 241,
+      "raw_page_num": 253,
+      "text_char_count": 3722,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 242,
+      "raw_page_num": 254,
+      "text_char_count": 3426,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 243,
+      "raw_page_num": 255,
+      "text_char_count": 1625,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 244,
+      "raw_page_num": 256,
+      "text_char_count": 1260,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 245,
+      "raw_page_num": 257,
+      "text_char_count": 1254,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 246,
+      "raw_page_num": 258,
+      "text_char_count": 2646,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 247,
+      "raw_page_num": 259,
+      "text_char_count": 1436,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 248,
+      "raw_page_num": 260,
+      "text_char_count": 2423,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 249,
+      "raw_page_num": 261,
+      "text_char_count": 4399,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 250,
+      "raw_page_num": 262,
+      "text_char_count": 2984,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 251,
+      "raw_page_num": 263,
+      "text_char_count": 4234,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 252,
+      "raw_page_num": 264,
+      "text_char_count": 4586,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 253,
+      "raw_page_num": 265,
+      "text_char_count": 2756,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 254,
+      "raw_page_num": 266,
+      "text_char_count": 2758,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 255,
+      "raw_page_num": 267,
+      "text_char_count": 4042,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 256,
+      "raw_page_num": 268,
+      "text_char_count": 2656,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 257,
+      "raw_page_num": 269,
+      "text_char_count": 4385,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 258,
+      "raw_page_num": 270,
+      "text_char_count": 2109,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 259,
+      "raw_page_num": 271,
+      "text_char_count": 3163,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 260,
+      "raw_page_num": 272,
+      "text_char_count": 3901,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 261,
+      "raw_page_num": 273,
+      "text_char_count": 2938,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 262,
+      "raw_page_num": 274,
+      "text_char_count": 3330,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 263,
+      "raw_page_num": 275,
+      "text_char_count": 2824,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 264,
+      "raw_page_num": 276,
+      "text_char_count": 2858,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 265,
+      "raw_page_num": 277,
+      "text_char_count": 2133,
+      "text_line_count": 53,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 266,
+      "raw_page_num": 278,
+      "text_char_count": 2421,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 267,
+      "raw_page_num": 279,
+      "text_char_count": 2673,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 268,
+      "raw_page_num": 280,
+      "text_char_count": 2834,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 269,
+      "raw_page_num": 281,
+      "text_char_count": 2335,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 270,
+      "raw_page_num": 282,
+      "text_char_count": 2560,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 271,
+      "raw_page_num": 283,
+      "text_char_count": 3111,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 272,
+      "raw_page_num": 284,
+      "text_char_count": 2074,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 273,
+      "raw_page_num": 285,
+      "text_char_count": 3122,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 274,
+      "raw_page_num": 286,
+      "text_char_count": 3715,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 275,
+      "raw_page_num": 287,
+      "text_char_count": 2115,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 276,
+      "raw_page_num": 288,
+      "text_char_count": 1777,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 277,
+      "raw_page_num": 289,
+      "text_char_count": 1617,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 278,
+      "raw_page_num": 290,
+      "text_char_count": 69,
+      "text_line_count": 2,
+      "likely_scanned": true
+    },
+    {
+      "page_num": 279,
+      "raw_page_num": 291,
+      "text_char_count": 1319,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 280,
+      "raw_page_num": 292,
+      "text_char_count": 3501,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 281,
+      "raw_page_num": 293,
+      "text_char_count": 4642,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 282,
+      "raw_page_num": 294,
+      "text_char_count": 3204,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 283,
+      "raw_page_num": 295,
+      "text_char_count": 3544,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 284,
+      "raw_page_num": 296,
+      "text_char_count": 3885,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 285,
+      "raw_page_num": 297,
+      "text_char_count": 3379,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 286,
+      "raw_page_num": 298,
+      "text_char_count": 3551,
+      "text_line_count": 60,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 287,
+      "raw_page_num": 299,
+      "text_char_count": 2110,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 288,
+      "raw_page_num": 300,
+      "text_char_count": 3007,
+      "text_line_count": 62,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 289,
+      "raw_page_num": 301,
+      "text_char_count": 4155,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 290,
+      "raw_page_num": 302,
+      "text_char_count": 3673,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 291,
+      "raw_page_num": 303,
+      "text_char_count": 3061,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 292,
+      "raw_page_num": 304,
+      "text_char_count": 2487,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 293,
+      "raw_page_num": 305,
+      "text_char_count": 3384,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 294,
+      "raw_page_num": 306,
+      "text_char_count": 1720,
+      "text_line_count": 21,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 295,
+      "raw_page_num": 307,
+      "text_char_count": 2334,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 296,
+      "raw_page_num": 308,
+      "text_char_count": 4152,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 297,
+      "raw_page_num": 309,
+      "text_char_count": 3501,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 298,
+      "raw_page_num": 310,
+      "text_char_count": 3866,
+      "text_line_count": 56,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 299,
+      "raw_page_num": 311,
+      "text_char_count": 3037,
+      "text_line_count": 67,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 300,
+      "raw_page_num": 312,
+      "text_char_count": 3452,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 301,
+      "raw_page_num": 313,
+      "text_char_count": 4315,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 302,
+      "raw_page_num": 314,
+      "text_char_count": 2651,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 303,
+      "raw_page_num": 315,
+      "text_char_count": 2898,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 304,
+      "raw_page_num": 316,
+      "text_char_count": 4276,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 305,
+      "raw_page_num": 317,
+      "text_char_count": 4465,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 306,
+      "raw_page_num": 318,
+      "text_char_count": 4181,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 307,
+      "raw_page_num": 319,
+      "text_char_count": 3841,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 308,
+      "raw_page_num": 320,
+      "text_char_count": 2206,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 309,
+      "raw_page_num": 321,
+      "text_char_count": 3753,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 310,
+      "raw_page_num": 322,
+      "text_char_count": 3290,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 311,
+      "raw_page_num": 323,
+      "text_char_count": 3167,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 312,
+      "raw_page_num": 324,
+      "text_char_count": 3256,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 313,
+      "raw_page_num": 325,
+      "text_char_count": 3246,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 314,
+      "raw_page_num": 326,
+      "text_char_count": 2874,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 315,
+      "raw_page_num": 327,
+      "text_char_count": 3591,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 316,
+      "raw_page_num": 328,
+      "text_char_count": 3451,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 317,
+      "raw_page_num": 329,
+      "text_char_count": 3492,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 318,
+      "raw_page_num": 330,
+      "text_char_count": 1485,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 319,
+      "raw_page_num": 331,
+      "text_char_count": 1878,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 320,
+      "raw_page_num": 332,
+      "text_char_count": 2367,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 321,
+      "raw_page_num": 333,
+      "text_char_count": 1799,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 322,
+      "raw_page_num": 334,
+      "text_char_count": 3159,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 323,
+      "raw_page_num": 335,
+      "text_char_count": 4018,
+      "text_line_count": 40,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 324,
+      "raw_page_num": 336,
+      "text_char_count": 2786,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 325,
+      "raw_page_num": 337,
+      "text_char_count": 2699,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 326,
+      "raw_page_num": 338,
+      "text_char_count": 2219,
+      "text_line_count": 25,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 327,
+      "raw_page_num": 339,
+      "text_char_count": 2466,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 328,
+      "raw_page_num": 340,
+      "text_char_count": 2272,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 329,
+      "raw_page_num": 341,
+      "text_char_count": 2454,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 330,
+      "raw_page_num": 342,
+      "text_char_count": 2627,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 331,
+      "raw_page_num": 343,
+      "text_char_count": 1624,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 332,
+      "raw_page_num": 344,
+      "text_char_count": 2623,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 333,
+      "raw_page_num": 345,
+      "text_char_count": 2755,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 334,
+      "raw_page_num": 346,
+      "text_char_count": 2382,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 335,
+      "raw_page_num": 347,
+      "text_char_count": 2459,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 336,
+      "raw_page_num": 348,
+      "text_char_count": 4319,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 337,
+      "raw_page_num": 349,
+      "text_char_count": 3049,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 338,
+      "raw_page_num": 350,
+      "text_char_count": 2906,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 339,
+      "raw_page_num": 351,
+      "text_char_count": 4323,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 340,
+      "raw_page_num": 352,
+      "text_char_count": 3052,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 341,
+      "raw_page_num": 353,
+      "text_char_count": 4079,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 342,
+      "raw_page_num": 354,
+      "text_char_count": 3705,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 343,
+      "raw_page_num": 355,
+      "text_char_count": 1255,
+      "text_line_count": 15,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 344,
+      "raw_page_num": 356,
+      "text_char_count": 1103,
+      "text_line_count": 13,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 345,
+      "raw_page_num": 357,
+      "text_char_count": 4902,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 346,
+      "raw_page_num": 358,
+      "text_char_count": 4867,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 347,
+      "raw_page_num": 359,
+      "text_char_count": 3339,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 348,
+      "raw_page_num": 360,
+      "text_char_count": 1292,
+      "text_line_count": 17,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 349,
+      "raw_page_num": 361,
+      "text_char_count": 2705,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 350,
+      "raw_page_num": 362,
+      "text_char_count": 3398,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 351,
+      "raw_page_num": 363,
+      "text_char_count": 2178,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 352,
+      "raw_page_num": 364,
+      "text_char_count": 1100,
+      "text_line_count": 12,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 353,
+      "raw_page_num": 365,
+      "text_char_count": 3575,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 354,
+      "raw_page_num": 366,
+      "text_char_count": 3886,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 355,
+      "raw_page_num": 367,
+      "text_char_count": 1322,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 356,
+      "raw_page_num": 368,
+      "text_char_count": 1559,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 357,
+      "raw_page_num": 369,
+      "text_char_count": 2314,
+      "text_line_count": 40,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 358,
+      "raw_page_num": 370,
+      "text_char_count": 1091,
+      "text_line_count": 13,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 359,
+      "raw_page_num": 371,
+      "text_char_count": 1160,
+      "text_line_count": 21,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 360,
+      "raw_page_num": 372,
+      "text_char_count": 3137,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 361,
+      "raw_page_num": 373,
+      "text_char_count": 1424,
+      "text_line_count": 15,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 362,
+      "raw_page_num": 374,
+      "text_char_count": 2101,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 363,
+      "raw_page_num": 375,
+      "text_char_count": 2691,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 364,
+      "raw_page_num": 376,
+      "text_char_count": 3634,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 365,
+      "raw_page_num": 377,
+      "text_char_count": 859,
+      "text_line_count": 9,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 366,
+      "raw_page_num": 378,
+      "text_char_count": 3427,
+      "text_line_count": 59,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 367,
+      "raw_page_num": 379,
+      "text_char_count": 3943,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 368,
+      "raw_page_num": 380,
+      "text_char_count": 3274,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 369,
+      "raw_page_num": 381,
+      "text_char_count": 3229,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 370,
+      "raw_page_num": 382,
+      "text_char_count": 1384,
+      "text_line_count": 57,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 371,
+      "raw_page_num": 383,
+      "text_char_count": 2440,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 372,
+      "raw_page_num": 384,
+      "text_char_count": 2802,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 373,
+      "raw_page_num": 385,
+      "text_char_count": 3330,
+      "text_line_count": 56,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 374,
+      "raw_page_num": 386,
+      "text_char_count": 3292,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 375,
+      "raw_page_num": 387,
+      "text_char_count": 4525,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 376,
+      "raw_page_num": 388,
+      "text_char_count": 3837,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 377,
+      "raw_page_num": 389,
+      "text_char_count": 4368,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 378,
+      "raw_page_num": 390,
+      "text_char_count": 3818,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 379,
+      "raw_page_num": 391,
+      "text_char_count": 3629,
+      "text_line_count": 53,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 380,
+      "raw_page_num": 392,
+      "text_char_count": 1169,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 381,
+      "raw_page_num": 393,
+      "text_char_count": 1101,
+      "text_line_count": 12,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 382,
+      "raw_page_num": 394,
+      "text_char_count": 2756,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 383,
+      "raw_page_num": 395,
+      "text_char_count": 1930,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 384,
+      "raw_page_num": 396,
+      "text_char_count": 2979,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 385,
+      "raw_page_num": 397,
+      "text_char_count": 2094,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 386,
+      "raw_page_num": 398,
+      "text_char_count": 4421,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 387,
+      "raw_page_num": 399,
+      "text_char_count": 2248,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 388,
+      "raw_page_num": 400,
+      "text_char_count": 4202,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 389,
+      "raw_page_num": 401,
+      "text_char_count": 2526,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 390,
+      "raw_page_num": 402,
+      "text_char_count": 371,
+      "text_line_count": 6,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 391,
+      "raw_page_num": 403,
+      "text_char_count": 3597,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 392,
+      "raw_page_num": 404,
+      "text_char_count": 3566,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 393,
+      "raw_page_num": 405,
+      "text_char_count": 3960,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 394,
+      "raw_page_num": 406,
+      "text_char_count": 1506,
+      "text_line_count": 54,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 395,
+      "raw_page_num": 407,
+      "text_char_count": 1270,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 396,
+      "raw_page_num": 408,
+      "text_char_count": 1450,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 397,
+      "raw_page_num": 409,
+      "text_char_count": 2464,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 398,
+      "raw_page_num": 410,
+      "text_char_count": 1440,
+      "text_line_count": 17,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 399,
+      "raw_page_num": 411,
+      "text_char_count": 2095,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 400,
+      "raw_page_num": 412,
+      "text_char_count": 2829,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 401,
+      "raw_page_num": 413,
+      "text_char_count": 4310,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 402,
+      "raw_page_num": 414,
+      "text_char_count": 2924,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 403,
+      "raw_page_num": 415,
+      "text_char_count": 3695,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 404,
+      "raw_page_num": 416,
+      "text_char_count": 2853,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 405,
+      "raw_page_num": 417,
+      "text_char_count": 2580,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 406,
+      "raw_page_num": 418,
+      "text_char_count": 3087,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 407,
+      "raw_page_num": 419,
+      "text_char_count": 3307,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 408,
+      "raw_page_num": 420,
+      "text_char_count": 4407,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 409,
+      "raw_page_num": 421,
+      "text_char_count": 2834,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 410,
+      "raw_page_num": 422,
+      "text_char_count": 1816,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 411,
+      "raw_page_num": 423,
+      "text_char_count": 3321,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 412,
+      "raw_page_num": 424,
+      "text_char_count": 2414,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 413,
+      "raw_page_num": 425,
+      "text_char_count": 3119,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 414,
+      "raw_page_num": 426,
+      "text_char_count": 3359,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 415,
+      "raw_page_num": 427,
+      "text_char_count": 3179,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 416,
+      "raw_page_num": 428,
+      "text_char_count": 3118,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 417,
+      "raw_page_num": 429,
+      "text_char_count": 2606,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 418,
+      "raw_page_num": 430,
+      "text_char_count": 3366,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 419,
+      "raw_page_num": 431,
+      "text_char_count": 2893,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 420,
+      "raw_page_num": 432,
+      "text_char_count": 3949,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 421,
+      "raw_page_num": 433,
+      "text_char_count": 4292,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 422,
+      "raw_page_num": 434,
+      "text_char_count": 2026,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 423,
+      "raw_page_num": 435,
+      "text_char_count": 4795,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 424,
+      "raw_page_num": 436,
+      "text_char_count": 3086,
+      "text_line_count": 63,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 425,
+      "raw_page_num": 437,
+      "text_char_count": 4186,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 426,
+      "raw_page_num": 438,
+      "text_char_count": 3155,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 427,
+      "raw_page_num": 439,
+      "text_char_count": 4089,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 428,
+      "raw_page_num": 440,
+      "text_char_count": 3348,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 429,
+      "raw_page_num": 441,
+      "text_char_count": 4073,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 430,
+      "raw_page_num": 442,
+      "text_char_count": 3600,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 431,
+      "raw_page_num": 443,
+      "text_char_count": 3866,
+      "text_line_count": 40,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 432,
+      "raw_page_num": 444,
+      "text_char_count": 3116,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 433,
+      "raw_page_num": 445,
+      "text_char_count": 2874,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 434,
+      "raw_page_num": 446,
+      "text_char_count": 3497,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 435,
+      "raw_page_num": 447,
+      "text_char_count": 2256,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 436,
+      "raw_page_num": 448,
+      "text_char_count": 1926,
+      "text_line_count": 22,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 437,
+      "raw_page_num": 449,
+      "text_char_count": 3799,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 438,
+      "raw_page_num": 450,
+      "text_char_count": 3685,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 439,
+      "raw_page_num": 451,
+      "text_char_count": 4035,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 440,
+      "raw_page_num": 452,
+      "text_char_count": 2777,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 441,
+      "raw_page_num": 453,
+      "text_char_count": 1476,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 442,
+      "raw_page_num": 454,
+      "text_char_count": 1241,
+      "text_line_count": 54,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 443,
+      "raw_page_num": 455,
+      "text_char_count": 1624,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 444,
+      "raw_page_num": 456,
+      "text_char_count": 3547,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 445,
+      "raw_page_num": 457,
+      "text_char_count": 2418,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 446,
+      "raw_page_num": 458,
+      "text_char_count": 70,
+      "text_line_count": 2,
+      "likely_scanned": true
+    },
+    {
+      "page_num": 447,
+      "raw_page_num": 459,
+      "text_char_count": 2801,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 448,
+      "raw_page_num": 460,
+      "text_char_count": 3173,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 449,
+      "raw_page_num": 461,
+      "text_char_count": 1967,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 450,
+      "raw_page_num": 462,
+      "text_char_count": 1776,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 451,
+      "raw_page_num": 463,
+      "text_char_count": 1181,
+      "text_line_count": 60,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 452,
+      "raw_page_num": 464,
+      "text_char_count": 4357,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 453,
+      "raw_page_num": 465,
+      "text_char_count": 1458,
+      "text_line_count": 18,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 454,
+      "raw_page_num": 466,
+      "text_char_count": 3555,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 455,
+      "raw_page_num": 467,
+      "text_char_count": 3304,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 456,
+      "raw_page_num": 468,
+      "text_char_count": 4154,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 457,
+      "raw_page_num": 469,
+      "text_char_count": 1559,
+      "text_line_count": 17,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 458,
+      "raw_page_num": 470,
+      "text_char_count": 4035,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 459,
+      "raw_page_num": 471,
+      "text_char_count": 4552,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 460,
+      "raw_page_num": 472,
+      "text_char_count": 3117,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 461,
+      "raw_page_num": 473,
+      "text_char_count": 4594,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 462,
+      "raw_page_num": 474,
+      "text_char_count": 2734,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 463,
+      "raw_page_num": 475,
+      "text_char_count": 3329,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 464,
+      "raw_page_num": 476,
+      "text_char_count": 1496,
+      "text_line_count": 16,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 465,
+      "raw_page_num": 477,
+      "text_char_count": 4637,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 466,
+      "raw_page_num": 478,
+      "text_char_count": 3412,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 467,
+      "raw_page_num": 479,
+      "text_char_count": 3412,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 468,
+      "raw_page_num": 480,
+      "text_char_count": 3342,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 469,
+      "raw_page_num": 481,
+      "text_char_count": 4251,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 470,
+      "raw_page_num": 482,
+      "text_char_count": 2820,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 471,
+      "raw_page_num": 483,
+      "text_char_count": 3847,
+      "text_line_count": 40,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 472,
+      "raw_page_num": 484,
+      "text_char_count": 4036,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 473,
+      "raw_page_num": 485,
+      "text_char_count": 4653,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 474,
+      "raw_page_num": 486,
+      "text_char_count": 4772,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 475,
+      "raw_page_num": 487,
+      "text_char_count": 4297,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 476,
+      "raw_page_num": 488,
+      "text_char_count": 3947,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 477,
+      "raw_page_num": 489,
+      "text_char_count": 3306,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 478,
+      "raw_page_num": 490,
+      "text_char_count": 578,
+      "text_line_count": 8,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 479,
+      "raw_page_num": 491,
+      "text_char_count": 2225,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 480,
+      "raw_page_num": 492,
+      "text_char_count": 4005,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 481,
+      "raw_page_num": 493,
+      "text_char_count": 3625,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 482,
+      "raw_page_num": 494,
+      "text_char_count": 1696,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 483,
+      "raw_page_num": 495,
+      "text_char_count": 1917,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 484,
+      "raw_page_num": 496,
+      "text_char_count": 700,
+      "text_line_count": 11,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 485,
+      "raw_page_num": 497,
+      "text_char_count": 1904,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 486,
+      "raw_page_num": 498,
+      "text_char_count": 4203,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 487,
+      "raw_page_num": 499,
+      "text_char_count": 2118,
+      "text_line_count": 21,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 488,
+      "raw_page_num": 500,
+      "text_char_count": 1683,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 489,
+      "raw_page_num": 501,
+      "text_char_count": 2818,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 490,
+      "raw_page_num": 502,
+      "text_char_count": 3012,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 491,
+      "raw_page_num": 503,
+      "text_char_count": 755,
+      "text_line_count": 10,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 492,
+      "raw_page_num": 504,
+      "text_char_count": 1674,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 493,
+      "raw_page_num": 505,
+      "text_char_count": 2573,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 494,
+      "raw_page_num": 506,
+      "text_char_count": 3545,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 495,
+      "raw_page_num": 507,
+      "text_char_count": 2599,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 496,
+      "raw_page_num": 508,
+      "text_char_count": 2730,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 497,
+      "raw_page_num": 509,
+      "text_char_count": 2669,
+      "text_line_count": 52,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 498,
+      "raw_page_num": 510,
+      "text_char_count": 3557,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 499,
+      "raw_page_num": 511,
+      "text_char_count": 2681,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 500,
+      "raw_page_num": 512,
+      "text_char_count": 2246,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 501,
+      "raw_page_num": 513,
+      "text_char_count": 4495,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 502,
+      "raw_page_num": 514,
+      "text_char_count": 3607,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 503,
+      "raw_page_num": 515,
+      "text_char_count": 3030,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 504,
+      "raw_page_num": 516,
+      "text_char_count": 4401,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 505,
+      "raw_page_num": 517,
+      "text_char_count": 2808,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 506,
+      "raw_page_num": 518,
+      "text_char_count": 3324,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 507,
+      "raw_page_num": 519,
+      "text_char_count": 2737,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 508,
+      "raw_page_num": 520,
+      "text_char_count": 3726,
+      "text_line_count": 40,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 509,
+      "raw_page_num": 521,
+      "text_char_count": 2374,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 510,
+      "raw_page_num": 522,
+      "text_char_count": 4048,
+      "text_line_count": 43,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 511,
+      "raw_page_num": 523,
+      "text_char_count": 3238,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 512,
+      "raw_page_num": 524,
+      "text_char_count": 2383,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 513,
+      "raw_page_num": 525,
+      "text_char_count": 4783,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 514,
+      "raw_page_num": 526,
+      "text_char_count": 4138,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 515,
+      "raw_page_num": 527,
+      "text_char_count": 2611,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 516,
+      "raw_page_num": 528,
+      "text_char_count": 4678,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 517,
+      "raw_page_num": 529,
+      "text_char_count": 4067,
+      "text_line_count": 42,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 518,
+      "raw_page_num": 530,
+      "text_char_count": 4058,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 519,
+      "raw_page_num": 531,
+      "text_char_count": 4352,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 520,
+      "raw_page_num": 532,
+      "text_char_count": 3277,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 521,
+      "raw_page_num": 533,
+      "text_char_count": 2826,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 522,
+      "raw_page_num": 534,
+      "text_char_count": 2220,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 523,
+      "raw_page_num": 535,
+      "text_char_count": 4821,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 524,
+      "raw_page_num": 536,
+      "text_char_count": 3935,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 525,
+      "raw_page_num": 537,
+      "text_char_count": 2602,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 526,
+      "raw_page_num": 538,
+      "text_char_count": 4213,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 527,
+      "raw_page_num": 539,
+      "text_char_count": 4496,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 528,
+      "raw_page_num": 540,
+      "text_char_count": 1329,
+      "text_line_count": 15,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 529,
+      "raw_page_num": 541,
+      "text_char_count": 3705,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 530,
+      "raw_page_num": 542,
+      "text_char_count": 3773,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 531,
+      "raw_page_num": 543,
+      "text_char_count": 3656,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 532,
+      "raw_page_num": 544,
+      "text_char_count": 1789,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 533,
+      "raw_page_num": 545,
+      "text_char_count": 1970,
+      "text_line_count": 52,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 534,
+      "raw_page_num": 546,
+      "text_char_count": 2561,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 535,
+      "raw_page_num": 547,
+      "text_char_count": 2306,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 536,
+      "raw_page_num": 548,
+      "text_char_count": 70,
+      "text_line_count": 2,
+      "likely_scanned": true
+    },
+    {
+      "page_num": 537,
+      "raw_page_num": 549,
+      "text_char_count": 1306,
+      "text_line_count": 24,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 538,
+      "raw_page_num": 550,
+      "text_char_count": 4539,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 539,
+      "raw_page_num": 551,
+      "text_char_count": 2461,
+      "text_line_count": 26,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 540,
+      "raw_page_num": 552,
+      "text_char_count": 4378,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 541,
+      "raw_page_num": 553,
+      "text_char_count": 4409,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 542,
+      "raw_page_num": 554,
+      "text_char_count": 3587,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 543,
+      "raw_page_num": 555,
+      "text_char_count": 1506,
+      "text_line_count": 17,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 544,
+      "raw_page_num": 556,
+      "text_char_count": 4700,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 545,
+      "raw_page_num": 557,
+      "text_char_count": 4489,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 546,
+      "raw_page_num": 558,
+      "text_char_count": 1520,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 547,
+      "raw_page_num": 559,
+      "text_char_count": 2729,
+      "text_line_count": 29,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 548,
+      "raw_page_num": 560,
+      "text_char_count": 4371,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 549,
+      "raw_page_num": 561,
+      "text_char_count": 2615,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 550,
+      "raw_page_num": 562,
+      "text_char_count": 4402,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 551,
+      "raw_page_num": 563,
+      "text_char_count": 3208,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 552,
+      "raw_page_num": 564,
+      "text_char_count": 3160,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 553,
+      "raw_page_num": 565,
+      "text_char_count": 4861,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 554,
+      "raw_page_num": 566,
+      "text_char_count": 3439,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 555,
+      "raw_page_num": 567,
+      "text_char_count": 3699,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 556,
+      "raw_page_num": 568,
+      "text_char_count": 2573,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 557,
+      "raw_page_num": 569,
+      "text_char_count": 2422,
+      "text_line_count": 25,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 558,
+      "raw_page_num": 570,
+      "text_char_count": 4213,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 559,
+      "raw_page_num": 571,
+      "text_char_count": 2576,
+      "text_line_count": 27,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 560,
+      "raw_page_num": 572,
+      "text_char_count": 4084,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 561,
+      "raw_page_num": 573,
+      "text_char_count": 2930,
+      "text_line_count": 32,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 562,
+      "raw_page_num": 574,
+      "text_char_count": 4067,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 563,
+      "raw_page_num": 575,
+      "text_char_count": 4374,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 564,
+      "raw_page_num": 576,
+      "text_char_count": 2983,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 565,
+      "raw_page_num": 577,
+      "text_char_count": 1707,
+      "text_line_count": 18,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 566,
+      "raw_page_num": 578,
+      "text_char_count": 3969,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 567,
+      "raw_page_num": 579,
+      "text_char_count": 3776,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 568,
+      "raw_page_num": 580,
+      "text_char_count": 4485,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 569,
+      "raw_page_num": 581,
+      "text_char_count": 4625,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 570,
+      "raw_page_num": 582,
+      "text_char_count": 4075,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 571,
+      "raw_page_num": 583,
+      "text_char_count": 4355,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 572,
+      "raw_page_num": 584,
+      "text_char_count": 4701,
+      "text_line_count": 49,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 573,
+      "raw_page_num": 585,
+      "text_char_count": 4404,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 574,
+      "raw_page_num": 586,
+      "text_char_count": 3805,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 575,
+      "raw_page_num": 587,
+      "text_char_count": 4578,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 576,
+      "raw_page_num": 588,
+      "text_char_count": 4444,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 577,
+      "raw_page_num": 589,
+      "text_char_count": 4101,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 578,
+      "raw_page_num": 590,
+      "text_char_count": 4199,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 579,
+      "raw_page_num": 591,
+      "text_char_count": 4317,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 580,
+      "raw_page_num": 592,
+      "text_char_count": 4385,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 581,
+      "raw_page_num": 593,
+      "text_char_count": 3020,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 582,
+      "raw_page_num": 594,
+      "text_char_count": 3562,
+      "text_line_count": 51,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 583,
+      "raw_page_num": 595,
+      "text_char_count": 3066,
+      "text_line_count": 63,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 584,
+      "raw_page_num": 596,
+      "text_char_count": 4507,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 585,
+      "raw_page_num": 597,
+      "text_char_count": 3570,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 586,
+      "raw_page_num": 598,
+      "text_char_count": 2652,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 587,
+      "raw_page_num": 599,
+      "text_char_count": 1458,
+      "text_line_count": 15,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 588,
+      "raw_page_num": 600,
+      "text_char_count": 412,
+      "text_line_count": 6,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 589,
+      "raw_page_num": 601,
+      "text_char_count": 4150,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 590,
+      "raw_page_num": 602,
+      "text_char_count": 4244,
+      "text_line_count": 52,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 591,
+      "raw_page_num": 603,
+      "text_char_count": 3765,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 592,
+      "raw_page_num": 604,
+      "text_char_count": 4268,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 593,
+      "raw_page_num": 605,
+      "text_char_count": 4081,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 594,
+      "raw_page_num": 606,
+      "text_char_count": 3613,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 595,
+      "raw_page_num": 607,
+      "text_char_count": 1954,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 596,
+      "raw_page_num": 608,
+      "text_char_count": 1866,
+      "text_line_count": 58,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 597,
+      "raw_page_num": 609,
+      "text_char_count": 2474,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 598,
+      "raw_page_num": 610,
+      "text_char_count": 1518,
+      "text_line_count": 19,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 599,
+      "raw_page_num": 611,
+      "text_char_count": 1614,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 600,
+      "raw_page_num": 612,
+      "text_char_count": 2723,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 601,
+      "raw_page_num": 613,
+      "text_char_count": 2885,
+      "text_line_count": 31,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 602,
+      "raw_page_num": 614,
+      "text_char_count": 1254,
+      "text_line_count": 15,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 603,
+      "raw_page_num": 615,
+      "text_char_count": 3487,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 604,
+      "raw_page_num": 616,
+      "text_char_count": 3327,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 605,
+      "raw_page_num": 617,
+      "text_char_count": 3381,
+      "text_line_count": 38,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 606,
+      "raw_page_num": 618,
+      "text_char_count": 1742,
+      "text_line_count": 42,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 607,
+      "raw_page_num": 619,
+      "text_char_count": 2911,
+      "text_line_count": 62,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 608,
+      "raw_page_num": 620,
+      "text_char_count": 2577,
+      "text_line_count": 30,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 609,
+      "raw_page_num": 621,
+      "text_char_count": 3638,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 610,
+      "raw_page_num": 622,
+      "text_char_count": 971,
+      "text_line_count": 11,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 611,
+      "raw_page_num": 623,
+      "text_char_count": 3686,
+      "text_line_count": 37,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 612,
+      "raw_page_num": 624,
+      "text_char_count": 3099,
+      "text_line_count": 35,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 613,
+      "raw_page_num": 625,
+      "text_char_count": 4544,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 614,
+      "raw_page_num": 626,
+      "text_char_count": 4492,
+      "text_line_count": 48,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 615,
+      "raw_page_num": 627,
+      "text_char_count": 3029,
+      "text_line_count": 62,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 616,
+      "raw_page_num": 628,
+      "text_char_count": 2383,
+      "text_line_count": 114,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 617,
+      "raw_page_num": 629,
+      "text_char_count": 3353,
+      "text_line_count": 39,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 618,
+      "raw_page_num": 630,
+      "text_char_count": 1933,
+      "text_line_count": 23,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 619,
+      "raw_page_num": 631,
+      "text_char_count": 3126,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 620,
+      "raw_page_num": 632,
+      "text_char_count": 3102,
+      "text_line_count": 33,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 621,
+      "raw_page_num": 633,
+      "text_char_count": 2374,
+      "text_line_count": 28,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 622,
+      "raw_page_num": 634,
+      "text_char_count": 3122,
+      "text_line_count": 34,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 623,
+      "raw_page_num": 635,
+      "text_char_count": 4034,
+      "text_line_count": 45,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 624,
+      "raw_page_num": 636,
+      "text_char_count": 3350,
+      "text_line_count": 36,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 625,
+      "raw_page_num": 637,
+      "text_char_count": 4013,
+      "text_line_count": 44,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 626,
+      "raw_page_num": 638,
+      "text_char_count": 1615,
+      "text_line_count": 20,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 627,
+      "raw_page_num": 639,
+      "text_char_count": 3570,
+      "text_line_count": 50,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 628,
+      "raw_page_num": 640,
+      "text_char_count": 3913,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 629,
+      "raw_page_num": 641,
+      "text_char_count": 3789,
+      "text_line_count": 41,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 630,
+      "raw_page_num": 642,
+      "text_char_count": 1532,
+      "text_line_count": 47,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 631,
+      "raw_page_num": 643,
+      "text_char_count": 1789,
+      "text_line_count": 46,
+      "likely_scanned": false
+    },
+    {
+      "page_num": 632,
+      "raw_page_num": 644,
+      "text_char_count": 2632,
+      "text_line_count": 39,
+      "likely_scanned": false
+    }
+  ]
+}
