@@ -1,0 +1,10 @@
+{
+    "db_dir": "../Vector_db/chroma_langchain_db",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "retriever_top_k": 10,
+    "reranker_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "generator_model": "Qwen/Qwen2.5-3B-Instruct",
+    "temperature": 0.3,
+    "max_new_tokens": 512,
+    "max_retries": 2
+}
