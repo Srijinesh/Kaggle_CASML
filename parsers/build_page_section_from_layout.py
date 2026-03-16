@@ -180,10 +180,10 @@ def write_outputs(entries: List[Dict[str, Any]], out_page_section: Path, out_kag
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--in-lines", default="Data/Psychology2e_layout_lines.jsonl")
-    parser.add_argument("--toc", default="Data/toc_pages.json")
-    parser.add_argument("--out-page-section", default="Data/page_section_from_layout.json")
-    parser.add_argument("--out-kaggle", default="Data/kaggle_section_records.json")
+    parser.add_argument("--in-lines", default="../Data/Psychology2e_layout_lines.jsonl")
+    parser.add_argument("--toc", default="../Data/toc_pages.json")
+    parser.add_argument("--out-page-section", default="../Data/page_section_from_layout.json")
+    parser.add_argument("--out-kaggle", default="../Data/kaggle_section_records.json")
     parser.add_argument("--skip-before-page", type=int, default=1)
     args = parser.parse_args()
 

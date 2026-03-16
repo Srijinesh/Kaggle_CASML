@@ -113,9 +113,9 @@ def extract_layout_records(
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--pdf", default="Data/Psychology2e_WEB.pdf")
-    parser.add_argument("--out-lines", default="Data/Psychology2e_layout_lines.jsonl")
-    parser.add_argument("--out-pages", default="Data/Psychology2e_layout_page_stats.json")
+    parser.add_argument("--pdf", default="../Data/Psychology2e_WEB.pdf")
+    parser.add_argument("--out-lines", default="../Data/Psychology2e_layout_lines.jsonl")
+    parser.add_argument("--out-pages", default="../Data/Psychology2e_layout_page_stats.json")
     parser.add_argument("--skip-first", type=int, default=12)
     parser.add_argument("--stop-after", type=int, default=644)
     parser.add_argument("--line-margin", type=float, default=0.5)

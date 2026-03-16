@@ -2,7 +2,7 @@ import pymupdf4llm
 import json
 from pathlib import Path
 
-md_text = pymupdf4llm.to_markdown("Data/Psychology2e_WEB.pdf", page_chunks=True)
+md_text = pymupdf4llm.to_markdown("../Data/Psychology2e_WEB.pdf", page_chunks=True)
 
 
 def _json_default(obj):
@@ -19,7 +19,7 @@ def _json_default(obj):
     # Fallback for other non-JSON-native objects.
     return str(obj)
 
-out_path = Path("Data/Psychology2e_WEB_with_page_numbers.json")
+out_path = Path("../Data/Psychology2e_WEB_with_page_numbers.json")
 tmp_path = out_path.with_suffix(out_path.suffix + ".tmp")
 
 with open(tmp_path, "w", encoding="utf-8") as f:

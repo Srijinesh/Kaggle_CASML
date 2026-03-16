@@ -123,10 +123,10 @@ def write_outputs(entries, out_page_section, out_kaggle):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--in-lines", default="Data/Psychology2e_layout_lines.jsonl")
-    ap.add_argument("--toc", default="Data/toc_pages.json")
-    ap.add_argument("--out-page-section", default="Data/page_section_from_layout_modular.json")
-    ap.add_argument("--out-kaggle", default="Data/kaggle_section_records_modular.json")
+    ap.add_argument("--in-lines", default="../Data/Psychology2e_layout_lines.jsonl")
+    ap.add_argument("--toc", default="../Data/toc_pages.json")
+    ap.add_argument("--out-page-section", default="../Data/page_section_from_layout_modular.json")
+    ap.add_argument("--out-kaggle", default="../Data/kaggle_section_records_modular.json")
     ap.add_argument("--skip-before-page", type=int, default=1)
     a = ap.parse_args()
 

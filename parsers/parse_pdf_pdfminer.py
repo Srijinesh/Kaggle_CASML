@@ -8,7 +8,7 @@ from tqdm import tqdm
 # high_level import extract_text
 
 # Specify the path to your PDF file
-pdf_path = "Data/Psychology2e_WEB.pdf"
+pdf_path = "../Data/Psychology2e_WEB.pdf"
 
 rsrc_mgr = PDFResourceManager()
 retstr = StringIO()
@@ -39,5 +39,5 @@ retstr.close()
 # Print or save the extracted text
 text = text.replace("\n\nAccess for free at openstax.org", "") 
 # Optionally, save the text to a file
-with open("Data/Psychology2e_WEB_pdfminer_trimmed_with_page_numbers_v2.txt", "w", encoding="utf-8") as text_file:
+with open("../Data/Psychology2e_WEB_pdfminer_trimmed_with_page_numbers_v2.txt", "w", encoding="utf-8") as text_file:
     text_file.write(text)

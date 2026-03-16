@@ -1,7 +1,7 @@
 import re
 
-text = open("Data/Psychology2e_WEB_pdfminer_trimmed.txt", "r", encoding="utf-8").readlines()
-full_text = open("Data/Psychology2e_WEB_pdfminer_trimmed.txt", "r", encoding="utf-8").read()
+text = open("../Data/Psychology2e_WEB_pdfminer_trimmed.txt", "r", encoding="utf-8").readlines()
+full_text = open("../Data/Psychology2e_WEB_pdfminer_trimmed.txt", "r", encoding="utf-8").read()
 sub_heading = []
 is_heading = False
 for line in text:
