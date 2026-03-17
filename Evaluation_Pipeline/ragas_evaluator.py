@@ -85,9 +85,16 @@ class ReferenceAccuracy:
             
         available_pages = set()
         for doc in retrieved_docs:
-            page = doc.metadata.get("start_page") or doc.metadata.get("page")
-            if page:
-                available_pages.add(str(page))
+            try:
+                start = int(doc.metadata.get("start_page") or doc.metadata.get("page") or 0)
+                end = int(doc.metadata.get("end_page") or start)
+                if start > 0:
+                    for p in range(start, end + 1):
+                        available_pages.add(str(p))
+            except (ValueError, TypeError):
+                pg = doc.metadata.get("page")
+                if pg:
+                    available_pages.add(str(pg))
         
         if not available_pages:
             return 0.0

@@ -53,24 +53,28 @@ def generate_submission(queries_path: str, output_path: str):
 
             # Build the specific 'references' JSON structure
             # Check for multiple possible metadata keys to be robust
-            sections = []
-            pages = []
+            sections = set()
+            pages = set()
             
             for doc in reranked_docs:
                 # Section/Heading
                 sect = doc.metadata.get("heading") or doc.metadata.get("section") or "unknown"
-                sections.append(sect)
+                sections.add(sect)
                 
-                # Page
-                pg = doc.metadata.get("start_page") or doc.metadata.get("page") or "unknown"
-                pages.append(str(pg))
-            
-            sections = list(set(sections))
-            pages = list(set(pages))
+                # Page Range Expansion
+                try:
+                    start = int(doc.metadata.get("start_page") or doc.metadata.get("page") or 0)
+                    end = int(doc.metadata.get("end_page") or start)
+                    if start > 0:
+                        for p in range(start, end + 1):
+                            pages.add(str(p))
+                except (ValueError, TypeError):
+                    pg = doc.metadata.get("page") or "unknown"
+                    pages.add(str(pg))
             
             references = {
-                "sections": sections,
-                "pages": pages
+                "sections": sorted(list(sections)),
+                "pages": sorted(list(pages), key=lambda x: int(x) if x.isdigit() else 9999)
             }
 
             results.append({
