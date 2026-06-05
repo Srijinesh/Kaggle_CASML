@@ -2,7 +2,7 @@ import sys
 import os
 import json
 from typing import TypedDict, List
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langgraph.graph import StateGraph, END
 
 # Ensures Python can resolve "RAG_Pipeline..." regardless of whether we run 
@@ -28,6 +28,7 @@ class RagState(TypedDict):
     reranked_docs: List[Document]  # Cross-encoder filtered docs
     generation: str                # Current LLM Answer
     feedback: str                  # Evaluator's critique
+    passed_evaluation: bool        # Success flag from LLM-as-a-Judge
     retries: int                   # Current retry count
     max_retries: int               
 
@@ -120,6 +121,7 @@ if __name__ == "__main__":
         "reranked_docs": [],
         "generation": "",
         "feedback": "",
+        "passed_evaluation": False,
         "retries": 0,
         "max_retries": config["max_retries"]
     }

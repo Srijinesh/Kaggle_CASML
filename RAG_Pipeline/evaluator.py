@@ -1,5 +1,5 @@
 from typing import List, Tuple
-from langchain.schema import Document
+from langchain_core.documents import Document
 import re
 
 class LlmEvaluator:
@@ -44,17 +44,22 @@ STATUS:"""
         # Execute the model via the shared pipeline
         raw_output = self.generator.llm.invoke(evaluation_prompt)
         
+        # Isolate the model's response part to avoid matching prompt instructions
+        if "<|im_start|>assistant" in raw_output:
+            processed_output = raw_output.split("<|im_start|>assistant")[-1].strip()
+        else:
+            processed_output = raw_output.strip()
+            
         # Parse the structured output
-        # Model might return "STATUS: PASS\nCRITIQUE: ..." 
         passed = False
         critique = "Critique could not be parsed."
         
-        if "PASS" in raw_output[:50].upper():
+        if "STATUS: PASS" in processed_output.upper():
             passed = True
-        elif "FAIL" in raw_output[:50].upper():
+        elif "STATUS: FAIL" in processed_output.upper():
             passed = False
             
-        critique_match = re.search(r'CRITIQUE:(.*)', raw_output, re.IGNORECASE | re.DOTALL)
+        critique_match = re.search(r'CRITIQUE:(.*)', processed_output, re.IGNORECASE | re.DOTALL)
         if critique_match:
             critique = critique_match.group(1).strip()
             

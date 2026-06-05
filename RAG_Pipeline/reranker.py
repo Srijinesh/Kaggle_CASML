@@ -1,7 +1,7 @@
 import os
 import json
 from typing import List
-from langchain.schema import Document
+from langchain_core.documents import Document
 from sentence_transformers import CrossEncoder
 
 class AdaptiveReranker:
@@ -16,7 +16,12 @@ class AdaptiveReranker:
         with open(config_path, "r", encoding="utf-8") as f:
             self.config = json.load(f)
             
-        self.model = CrossEncoder(self.config["reranker_model"])
+        import torch
+        device_pref = self.config.get("device", "cpu").lower()
+        device = "cuda" if (device_pref == "cuda" and torch.cuda.is_available()) else "cpu"
+        print(f"Loading Cross-Encoder Reranker to {device.upper()}...")
+            
+        self.model = CrossEncoder(self.config["reranker_model"], device=device)
         
     def rerank_and_filter(self, query: str, documents: List[Document]) -> List[Document]:
         """

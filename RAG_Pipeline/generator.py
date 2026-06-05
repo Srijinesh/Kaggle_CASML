@@ -1,10 +1,10 @@
 import os
 import json
 import torch
-from transformers import AutoTokenizer, pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain_huggingface import HuggingFacePipeline
 from typing import List
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 class LocalLLMGenerator:
     def __init__(self, config_path: str = "config.json"):
@@ -20,17 +20,40 @@ class LocalLLMGenerator:
             self.config = json.load(f)
             
         model_id = self.config["generator_model"]
-        print(f"Loading Local LLM: {model_id} into VRAM...")
+        
+        device_pref = self.config.get("device", "cpu").lower()
+        use_cuda = (device_pref == "cuda" and torch.cuda.is_available())
+        device_str = "CUDA VRAM (4-bit)" if use_cuda else "CPU RAM"
+        print(f"Loading Local LLM: {model_id} into {device_str}...")
         
         self.tokenizer = AutoTokenizer.from_pretrained(model_id)
+        
+        if use_cuda:
+            from transformers import BitsAndBytesConfig
+            bnb_config = BitsAndBytesConfig(
+                load_in_4bit=True,
+                bnb_4bit_quant_type="nf4",
+                bnb_4bit_compute_dtype=torch.float16,
+                bnb_4bit_use_double_quant=True
+            )
+            model = AutoModelForCausalLM.from_pretrained(
+                model_id,
+                quantization_config=bnb_config,
+                device_map="auto"
+            )
+        else:
+            # Load directly into CPU space. Quantization disabled.
+            model = AutoModelForCausalLM.from_pretrained(
+                model_id,
+                device_map="cpu",
+                torch_dtype=torch.float32
+            )
         
         # Utilize hardware acceleration when possible
         self.pipe = pipeline(
             "text-generation",
-            model=model_id,
+            model=model,
             tokenizer=self.tokenizer,
-            torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
-            device_map="auto" if torch.cuda.is_available() else None,
             max_new_tokens=self.config["max_new_tokens"],
             do_sample=True,
             temperature=self.config["temperature"], 
